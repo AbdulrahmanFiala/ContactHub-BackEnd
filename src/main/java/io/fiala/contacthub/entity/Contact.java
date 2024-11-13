@@ -1,4 +1,4 @@
-package io.fiala.contacthub.domain;
+package io.fiala.contacthub.entity;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.Column;
